@@ -3,7 +3,6 @@
 This is a simple implementation of sentiment analysis model using Convolutional neural network in Keras. This is modified for the French language datasets. 
 To run the code, it needs to have example.csv as a toy dataset in the same path,
 You can run the code simply by:
-
 python sen.py [path2train]
 
 For instance:
