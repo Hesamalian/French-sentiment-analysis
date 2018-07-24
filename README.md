@@ -1,21 +1,18 @@
 # French-sentiment-analysis
 
+This is a simple implementation of sentiment analysis model using Convolutional neural network in Keras. This is modified for the French language datasets. 
 To run the code, it needs to have example.csv as a toy dataset in the same path,
-
 You can run the code simply by:
 
 python sen.py [path2train]
 
 For instance:
-
 python sen.py example.csv
 
 Output:
-
 weights of the model saved for the best accuracy using validation_data
 
 For Citation
-
 @article{DBLP:journals/corr/Kim14f,
   author    = {Yoon Kim},
   title     = {Convolutional Neural Networks for Sentence Classification},
