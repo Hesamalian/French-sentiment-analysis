@@ -13,6 +13,7 @@ Output:
 weights of the model saved for the best accuracy using validation_data
 
 For Citation
+
 @article{DBLP:journals/corr/Kim14f,
   author    = {Yoon Kim},
   title     = {Convolutional Neural Networks for Sentence Classification},
